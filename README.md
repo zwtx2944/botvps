@@ -25,7 +25,7 @@ python3 bot.py
 
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/BossOPMC94/CRASHCLOUD-VPS-MAKER-BOT/main/install.sh)
+https://raw.githubusercontent.com/zwtx2944/botvps/refs/heads/main/install.sh
 ```
 OR
 
