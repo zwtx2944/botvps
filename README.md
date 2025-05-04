@@ -1,4 +1,4 @@
-**Manuelly**
+**Trockbop**
 **1st** 
 ```
 pip install -r requirements.txt
@@ -25,19 +25,19 @@ python3 bot.py
 
 
 ```
-https://raw.githubusercontent.com/zwtx2944/botvps/refs/heads/main/install.sh
+https://raw.githubusercontent.com/zwtx2944/botvps/main/install.sh
 ```
 OR
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/BossOPMC94/CRASHCLOUD-VPS-MAKER-BOT/main/install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/zwtx2944/botvps/main/install.sh)
 ```
-Join Our Discord Server to get Activation Key : https://discord.gg/r2vmR5jbXt
+Join Our Discord Server to get Activation Key : https://discord.gg/RBSCcZ6JFj
 
 *Paid Version Also Available!*
 
 
-# Made By Notlol95 ``Don't Change Credit or I will stop to update``
+# Made By Trockbop ``Don't Change Credit or I will stop to update``
 # Next Update Will Fix Everything!
 
 ### ✨️ ``Features`` ✨️
